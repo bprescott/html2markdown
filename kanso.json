@@ -1,0 +1,9 @@
+{
+        "name": "html2markdown",
+        "version": "0.0.1",
+        "description": "HTML to Markdown converter",
+        "attachments": ["jasmine", "html2markdown.js", "htmlparser.js", "htmldomparser.js", "spec", "SpecRunner.html", "README.md"],
+        "dependencies": {
+                "attachments": null
+        }
+}
